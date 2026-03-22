@@ -42,12 +42,6 @@ The goal is to study applicant behavior, enrollment patterns, and popular fields
 
 ---
 
-## 📈 Key Insights
-- Most applicants submitted **1–3 applications** (median = 2) 📑  
-- **Budget-enrolled applicants** had higher average exam scores than non-enrolled or target-enrolled applicants 🎯  
-- Certain fields, e.g., **Architecture and Civil Engineering**, were the most popular 🏛️  
-
----
 
 ## 📎 Project Structure
 Internship_SPbGASU/

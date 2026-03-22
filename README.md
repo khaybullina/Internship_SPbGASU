@@ -45,10 +45,10 @@ The goal is to study applicant behavior, enrollment patterns, and popular fields
 
 ## 📎 Project Structure
 
-Internship_SPbGASU/
-├── Internship_SPbGASU_EDA_of_admissions_data.ipynb
-├── admissions_data.csv
-└── README.md
+Internship_SPbGASU/  
+├── Internship_SPbGASU_EDA_of_admissions_data.ipynb  
+├── admissions_data.csv  
+└── README.md  
 
 ---
 

@@ -1,60 +1,34 @@
 # 🎓 EDA of University Admissions Data
 
 ## 📌 Overview
-This project is an exploratory data analysis (EDA) of university admissions data from Saint Petersburg State University of Architecture and Civil Engineering.  
-The goal is to study applicant behavior, enrollment patterns, and popular fields of study using Python (Pandas) and visualizations.
+Exploratory Data Analysis (EDA) of 2022 admissions data from SPbGASU.  
+Goal: analyze applicant behavior, enrollment patterns, and popular fields of study.
 
 ---
 
-## 🎯 Project Objectives
-- Explore general statistics of the admissions campaign  
-- Analyze applicant demographics and profiles  
-- Compare enrollment types (budget, target, non-enrolled)  
-- Identify trends in applications and popular fields of study  
+## 🔎 Key Steps
+- Loaded and cleaned admissions data (`admissions_data.csv`)  
+- Explored applications by faculty, field, region, and submission method  
+- Analyzed applicant demographics and exam scores  
+- Compared budget-enrolled vs non-enrolled applicants  
+- Visualized trends using bar charts, histograms, and pie charts
 
 ---
 
-## 🛠 Tools & Technologies
-- Python 🐍  
-- Pandas 🗃️  
-- Matplotlib / Seaborn 📊  
-- Jupyter Notebook 📓  
+## 📈 Key Insights
+- **High-value regions**: Applicants from Northwestern, Southern, Volga, and Ural Federal Districts show strongest interest — non-local students are a key talent pool.  
+- **Faculty preferences**: Construction & Architecture dominate applications; specific popular programs can guide targeted recruitment.  
+- **Enrollment patterns**: Many high-scoring applicants do not enroll at SPbGASU — indicates potential loss of talent to competing universities.  
+- **Budget-enrolled behavior**: These applicants tend to submit more applications and choose multiple faculties, showing high engagement and strategic selection.  
+- **Opportunity**: Active regional outreach and targeted programs could increase enrollment among top non-resident applicants. 
 
 ---
-
-## 🔄 Workflow
-1. **Data Preparation**  
-   - Loaded and cleaned the dataset  
-   - Combined relevant features for analysis  
-
-2. **General Admissions Analysis**  
-   - Number of applications overall, by faculty and field  
-   - Unique applicants, average and median applications per person  
-   - Distribution by submission methods, enrollment reasons, education levels, region and citizenship  
-
-3. **Applicant Portraits**  
-   - Demographics: age, gender, location, education background  
-   - Application behavior: number of applications, submission methods, chosen fields  
-   - Comparison between groups: budget-enrolled, target-enrolled, non-enrolled  
-
-4. **Visualization**  
-   - Bar charts, histograms, density plots, and pie charts to illustrate key trends  
-
----
-
 
 ## 📎 Project Structure
-
-Internship_SPbGASU/  
+Internship_SPbGASU/   
 ├── Internship_SPbGASU_EDA_of_admissions_data.ipynb  
 ├── admissions_data.csv  
 └── README.md  
-
----
-
-## ✅ Conclusion
-This project demonstrates a full exploratory workflow: from raw admissions data to insights about applicant behavior, enrollment patterns, and popular fields of study.  
-The analysis can support further research or inform recruitment strategy decisions.  
 
 ---
 
